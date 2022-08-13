@@ -18,9 +18,14 @@
 - https://goodcalculators.com/margin-of-error-calculator/
 - https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator
 
-## Useful Excel Functionality
+## Excel Functionality
 - VLOOKUP
 - DATEIF
+
+## Google Sheet Functionality
+- IMPORTRANGE
+- QUERY
+- FILTER
 
 ## SQL
 - https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
