@@ -21,3 +21,10 @@
 ## Useful Excel Functionality
 - VLOOKUP
 - DATEIF
+
+## SQL
+- https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
+- https://www.sqltutorial.org/what-is-sql/
+- https://sqlite.org/windowfunctions.html
+- https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
+- https://learnsql.com/blog/what-sql-dialect-to-learn/
