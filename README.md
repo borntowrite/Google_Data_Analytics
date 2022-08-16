@@ -18,6 +18,14 @@
 - https://goodcalculators.com/margin-of-error-calculator/
 - https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator
 
+## Useful Link - SQL
+- https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
+- https://www.sqltutorial.org/what-is-sql/
+- https://sqlite.org/windowfunctions.html
+- https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
+- https://learnsql.com/blog/what-sql-dialect-to-learn/
+
+
 ## Excel Functionality
 - VLOOKUP
 - DATEIF
@@ -26,16 +34,13 @@
 - IMPORTRANGE
 - QUERY
 - FILTER
-
-## Useful Link - SQL
-- https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
-- https://www.sqltutorial.org/what-is-sql/
-- https://sqlite.org/windowfunctions.html
-- https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
-- https://learnsql.com/blog/what-sql-dialect-to-learn/
-
+- CONCAT
+- CONCATENATE
+- 
 ## SQL Commands
-- CAST
+- CAST (ex. SELECT CAST(MyCount AS STRING) FROM MyTable..)
+- COERCION 
+- UNIX_DATE
 - CONCAT
 - COALESCE
 - COUNT
