@@ -31,19 +31,15 @@
 - DATEIF
 
 ## Google Sheet Functionality
-- IMPORTRANGE
-- QUERY
-- FILTER
-- CONCAT
-- CONCATENATE
-- 
+- https://support.google.com/docs/table/25273?hl=en
+
 ## SQL Commands
 - CAST (ex. SELECT CAST(MyCount AS STRING) FROM MyTable..)
 - COERCION 
 - UNIX_DATE
 - CONCAT
--- CONCAT_WS
--- CONCAT with +
+  - CONCAT_WS
+  - CONCAT with +
 - COALESCE
 - COUNT
 - TRIM
