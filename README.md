@@ -25,13 +25,16 @@
 - https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
 - https://learnsql.com/blog/what-sql-dialect-to-learn/
 
-
 ## Excel Functionality
-- VLOOKUP
-- DATEIF
+- https://exceljet.net/excel-functions
+- https://exceljet.net/formulas
+- https://learntocodewith.me/posts/excel-skills/
+- https://www.slideshare.net/markjhonoxillo/advanced-spreadsheet-skills
 
 ## Google Sheet Functionality
 - https://support.google.com/docs/table/25273?hl=en
+- https://automate.io/blog/google-spreadsheet-formulas/
+- https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques/
 
 ## SQL Commands
 - CAST (ex. SELECT CAST(MyCount AS STRING) FROM MyTable..)
