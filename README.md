@@ -9,6 +9,7 @@
   - Excel Spreadsheet, Google Sheet
 - Chart
   - Google Chart (https://developers.google.com/chart/interactive/docs/gallery)
+  - Tableau 
 
 ## Public Datasets: 
 1. CSV: Check out this Credit card customers dataset, which has information from 10,000 customers including age, salary, marital status, credit card limit, credit card category, etc. (CC0: Public Domain, Sakshi Goyal). 
